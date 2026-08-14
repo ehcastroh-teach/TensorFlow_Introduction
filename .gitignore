@@ -1,0 +1,10 @@
+venv/
+assets/venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+logs/
+assets/homeworks/logs/
+*.egg-info/
+.DS_Store

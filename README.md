@@ -22,8 +22,8 @@ By working through this repository you will be able to:
 
 | File / Folder | Description |
 |---|---|
-| `TensorFlow_Introduction.ipynb` | Main notebook - four parts covering setup, tensors, operations, and graphs |
-| `assets/homeworks/m410_homework-1_tensorflow.ipynb` | Practice exercises to reinforce the material |
+| `tensorflow_introduction.ipynb` | Main notebook - four parts covering setup, tensors, operations, and graphs |
+| `assets/homeworks/tensorflow_introduction_homework.ipynb` | Practice exercises to reinforce the material |
 | `assets/content/images/` | Diagrams and logos used inside the notebook |
 | `requirements.txt` | Python package dependencies |
 | `logs/` | TensorBoard event files generated when you run the TensorBoard demo cells |
@@ -39,7 +39,7 @@ Clone repo
 Install dependencies (requirements.txt)
     |
     v
-Open TensorFlow_Introduction.ipynb
+Open tensorflow_introduction.ipynb
     |
     +---> Part 0: About and Motivation
     |
@@ -120,7 +120,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # 4. Launch Jupyter
-jupyter notebook TensorFlow_Introduction.ipynb
+jupyter notebook tensorflow_introduction.ipynb
 ```
 
 Run all cells top-to-bottom (Kernel - Restart & Run All). TensorBoard cells will write logs to `logs/` and display inline.

@@ -158,7 +158,7 @@ Run all cells top-to-bottom (Kernel - Restart & Run All). TensorBoard cells will
 
 ## Credits and Acknowledgements
 
-Notebook content originally developed for an applied machine learning curriculum. Textbook reference: *Deep Learning with Python* by Francois Chollet (Manning Publications). TF logo and diagram assets copyright TensorFlow / Google.
+Textbook reference: *Deep Learning with Python* by Francois Chollet (Manning Publications). TF logo and diagram assets copyright TensorFlow / Google.
 
 ---
 
